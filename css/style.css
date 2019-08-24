@@ -1,0 +1,13 @@
+form {
+  width: 60vw;
+  margin:auto;
+}
+
+table.table.table-striped{
+  width: 80vw;
+  margin:auto;
+}
+
+h1 {
+  text-align:center;
+}

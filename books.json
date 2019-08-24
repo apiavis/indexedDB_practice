@@ -1,0 +1,42 @@
+[
+    {
+        "author":"George R. R. Martin",
+        "numberOfPages": 694,
+        "publishDate":"1997-03-17",
+        "rating": 3,
+        "synopsis":"Author sets out to create the world's most complicated family tree.",
+        "title":"A Song of Ice and Fire"
+    },
+    {
+        "author":"Stephen King",
+        "numberOfPages": 500,
+        "publishDate":"1989-03-17",
+        "rating": 5,
+        "synopsis":"Basically Beethoven but with more rabies.",
+        "title":"Cujo"
+    },
+    {
+        "author":"Stephen King",
+        "numberOfPages": 320,
+        "publishDate":"1995-03-17",
+        "rating": 4,
+        "synopsis":"Clown makes red balloon animals and eats the customers.",
+        "title":"IT"
+    },
+    {
+        "author":"JK Rowling",
+        "numberOfPages": 250,
+        "publishDate":"2001-03-17",
+        "rating": 5,
+        "synopsis":"Delusional boy dreams up a fake reality while trapped under a cupboard.",
+        "title":"Harry Potter and the Sorcerer's Stone"
+    },
+    {
+        "author":"JK Rowling",
+        "numberOfPages": 300,
+        "publishDate":"2002-03-17",
+        "rating": 2,
+        "synopsis":"Delusional boy dreams up a fake reality WITH SNAKES while trapped under a cupboard.",
+        "title":"Harry Potter and the Chamber of Secrets"
+    }
+  ]
